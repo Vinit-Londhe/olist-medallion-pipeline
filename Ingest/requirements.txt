@@ -1,0 +1,12 @@
+# Databricks Free Edition — serverless compute
+# PySpark, Delta Lake, and Spark SQL are pre-installed; no external
+# packages were required for this pipeline.
+#
+# Reproducibility note: Free Edition uses serverless compute with no
+# selectable Databricks Runtime version. The exact serverless environment
+# version used for this project can be checked via the environment
+# selector in the top-right of any notebook (Databricks UI).
+#
+# No third-party Python packages (e.g. via %pip install) were used,
+# since Free Edition restricts outbound internet access to a limited
+# set of trusted domains, which blocks most PyPI installs.
